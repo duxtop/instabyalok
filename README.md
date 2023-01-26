@@ -21,8 +21,8 @@ An Example app to fill the portfolio during job-hunt
 
 # Live link:
 
-https://azizoid.github.io/alokinsta/
+https://github.com/duxtop/
 
 # List of Commits
 
-https://github.com/azizoid/alokinsta/commits/main
+https://github.com/duxtop/instabyalok.git
