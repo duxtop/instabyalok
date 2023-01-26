@@ -14,7 +14,7 @@ exports[`renders Header 1`] = `
         class="username username"
         href="/#username"
       >
-        azizoid
+        Alok
       </a>
     </div>
     <a

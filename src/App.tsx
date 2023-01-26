@@ -8,8 +8,8 @@ import { Feed } from './Main/Feed/Feed';
 
 export const App = () => {
     const [me] = useState({
-        username: 'azizoid',
-        fullName: 'Aziz Shahhuseynov',
+        username: 'Alok',
+        fullName: 'Alok Singh',
         image: 'https://picsum.photos/56',
     });
 

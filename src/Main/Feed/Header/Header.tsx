@@ -19,7 +19,7 @@ export const Header = () => {
                     roundedCircle={true}
                     thumbnail={true}
                 />
-                <Username username="azizoid" className={styles.username} />
+                <Username username="Alok" className={styles.username} />
             </div>
             <Card.Link className={styles.threeDots}>
                 <Button

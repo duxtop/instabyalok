@@ -6,7 +6,7 @@ test('renders Header', () => {
     const { container, getByText, getByRole } = render(<Header />);
 
     expect(getByRole('img')).toBeInTheDocument();
-    expect(getByText('azizoid')).toBeInTheDocument();
+    expect(getByText('Alok')).toBeInTheDocument();
     expect(getByRole('icon')).toBeInTheDocument();
 
     expect(container).toMatchSnapshot();
